@@ -1,6 +1,6 @@
 # Gabe Booking Page
 
-Single static file (`index.html`), no build step and no dependencies. It embeds the GHL group calendar (20-min and 45-min "Chat with Gabe").
+Single static file (`index.html`), no build step and no dependencies. It a no-back-and-forth scheduling page for friends. Embeds the GHL group calendar (20-min and 45-min "Chat with Gabe").
 
 Deploy: drag the folder into Netlify Drop, connect the repo on Vercel or Netlify, or paste the contents of `index.html` into a GHL funnel custom-code element.
 
