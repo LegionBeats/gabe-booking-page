@@ -11,3 +11,7 @@ Effects (modeled on the Stash component library):
 - A spinning red/gold gradient border with a blurred glow around the calendar, plus a glare that follows the cursor
 
 The animations are skipped for visitors who have reduced motion turned on.
+
+## Using it in GoHighLevel
+
+Paste the contents of `ghl-embed.html` (not `index.html`) into a Custom JS/HTML element. It is scoped to one `#gb` container, breaks out of the column to full width, and never touches the page's `html`/`body`. Set the section's background to dark and its padding to 0 so no GHL color shows around it.
